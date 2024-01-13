@@ -5,7 +5,7 @@ also installs extensions manager and gnome tweaks.
 
 # usage
 ./clean.sh<br/>
-if doesn't work try chmod +x clean.sh && ./clean.sh
+if doesn't work try<br/> chmod +x clean.sh && ./clean.sh
 
 # status
 working on debian 12 with gnome 43.9
