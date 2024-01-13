@@ -1,6 +1,6 @@
 # clean-debian-gnome
-bash script to remove some of the extra<br/>
-stuff debian installer adds by default to gnome.
+bash script to remove some of the extra stuff<br/>
+debian installer adds by default to gnome.<br/>
 also installs extensions manager and gnome tweaks.
 
 # usage
