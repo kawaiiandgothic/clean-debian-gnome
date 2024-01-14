@@ -4,3 +4,4 @@ apt install qt5-style-kvantum gnome-software-plugin-flatpak flatpak gnome-core g
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install flathub org.kde.KStyle.Kvantum
 kvantummanager -set KvGnomeDark
+echo "run systemctl reboot for changes to take effect"
